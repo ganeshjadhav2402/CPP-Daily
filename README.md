@@ -1,4 +1,4 @@
-# C++ Practice <br>
+# C++ Daily Practice <br>
 
 ## All About C++ Methods, Functions, Array, String, Loops etc.
 
